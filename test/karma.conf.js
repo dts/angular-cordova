@@ -16,7 +16,7 @@ files = [
   'test/lib/jasmine/helper.js',
   'test/lib/angular/angular.js',
   'test/lib/angular/angular-mocks.js',
-  'test/lib/cordova-2.5.0.js',
+  //  'test/lib/cordova-2.5.0.js',
   'src/common.js',
   'test/unit/*Spec.js'
 ];
